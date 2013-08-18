@@ -1,0 +1,5 @@
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Models\bin\Debug\CodeJewels.Models.dll
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Models\bin\Debug\CodeJewels.Models.pdb
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Models\obj\Debug\CodeJewels.Models.csprojResolveAssemblyReference.cache
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Models\obj\Debug\CodeJewels.Models.dll
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Models\obj\Debug\CodeJewels.Models.pdb

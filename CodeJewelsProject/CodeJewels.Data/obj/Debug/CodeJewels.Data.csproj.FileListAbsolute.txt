@@ -1,0 +1,10 @@
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\obj\Debug\CodeJewels.Data.csprojResolveAssemblyReference.cache
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\CodeJewels.Data.dll.config
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\CodeJewels.Data.dll
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\CodeJewels.Data.pdb
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\CodeJewels.Models.dll
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\EntityFramework.dll
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\CodeJewels.Models.pdb
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\bin\Debug\EntityFramework.xml
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\obj\Debug\CodeJewels.Data.dll
+C:\Users\Werew\Documents\Visual Studio 2012\Projects\CodeJewelsProject\CodeJewels.Data\obj\Debug\CodeJewels.Data.pdb
